@@ -10,5 +10,3 @@
 ```
 $ node test.js
 ```
-# PuppeteerStartar
-# PuppeteerStartar
